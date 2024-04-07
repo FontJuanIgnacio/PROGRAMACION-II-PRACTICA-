@@ -5,11 +5,11 @@ public class DivisionNumeros {
         Scanner scanner = new Scanner(System.in);
 
         // Solicitar al usuario que ingrese el primer número real
-        System.out.print("Ingrese el primer número real: ");
+        System.out.print("Ingrese el primer numero real: ");
         double numero1 = scanner.nextDouble();
 
         // Solicitar al usuario que ingrese el segundo número real
-        System.out.print("Ingrese el segundo número real: ");
+        System.out.print("Ingrese el segundo numero real: ");
         double numero2 = scanner.nextDouble();
 
         // Verificar si el segundo número es diferente de cero
