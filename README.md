@@ -1,2 +1,1 @@
-# Programation2
-Training
+Hello thats my repository of programation II ;)
