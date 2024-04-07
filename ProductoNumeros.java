@@ -5,11 +5,11 @@ public class ProductoNumeros {
         Scanner scanner = new Scanner(System.in);
 
         // Solicitar al usuario que ingrese el primer número
-        System.out.print("Ingrese el primer número: ");
+        System.out.print("Ingrese el primer numero: ");
         double numero1 = scanner.nextDouble();
 
         // Solicitar al usuario que ingrese el segundo número
-        System.out.print("Ingrese el segundo número: ");
+        System.out.print("Ingrese el segundo numero: ");
         double numero2 = scanner.nextDouble();
 
         // Calcular el producto de los dos números
